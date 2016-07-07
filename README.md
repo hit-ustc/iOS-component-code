@@ -1,6 +1,6 @@
 #About us
 
-This project was done by [@Aesthetic92](https://github.com/aesthetic92) and [@Soverying](https://github.com/Soverying)
+This project was done by [@Aesthetic92](https://github.com/aesthetic92) and [@Soverying](https://github.com/Soverying).
 
 We are graduate students in the mainland of China.
 
