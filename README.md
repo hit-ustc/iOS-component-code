@@ -1,6 +1,6 @@
-#About Project
+#About Repo
 
-This project is mainly used to learn iOS development. It contains some userful components in the iOS development. This project is only for learn to study, without any commercial use. 
+This repository mainly used to learn iOS development. It contains some userful components in the iOS development. The repository is only for learn to study, without any commercial use. 
 
 At present, we have completed a number of the components. Later, we will gradually improve it.
 
